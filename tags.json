@@ -1,0 +1,198 @@
+[
+    {
+      "name": "车辆对标分析",
+      "description": "Car Collect Analyze Controller"
+    },
+    {
+      "name": "组接口",
+      "description": "Group Controller"
+    },
+    {
+      "name": "一张图-路线接口",
+      "description": "One Page Route Controller"
+    },
+    {
+      "name": "任务执行图接口",
+      "description": "Collect Point Transportation Controller"
+    },
+    {
+      "name": "商户产生量统计接口",
+      "description": "Restaurant Collect Data Controller"
+    },
+    {
+      "name": "公共接口：枚举接口",
+      "description": "Enum Controller"
+    },
+    {
+      "name": "一张图-收集点接口",
+      "description": "One Page Sypoint Controller"
+    },
+    {
+      "name": "停车场接口",
+      "description": "Parking Controller"
+    },
+    {
+      "name": "垃圾桶型号接口",
+      "description": "Trashbin Type Detail Controller"
+    },
+    {
+      "name": "收集点接口",
+      "description": "Collect Point Info Controller"
+    },
+    {
+      "name": "区域日产生量统计接口",
+      "description": "Xzqh Collect Data Controller"
+    },
+    {
+      "name": "路线编辑接口",
+      "description": "Route Model Controller"
+    },
+    {
+      "name": "一张图-商户接口",
+      "description": "One Page Restaurant Controller"
+    },
+    {
+      "name": "异常事件定义接口",
+      "description": "Abnormal Params Set Controller"
+    },
+    {
+      "name": "导入结果接口",
+      "description": "Cc Import Result Controller"
+    },
+    {
+      "name": "进场量统计接口",
+      "description": "Cc Weighbridge Controller"
+    },
+    {
+      "name": "地磅接口",
+      "description": "Weigh Bridge Current Controller"
+    },
+    {
+      "name": "一张图-数据接口",
+      "description": "One Page Data Controller"
+    },
+    {
+      "name": "刷卡记录信息",
+      "description": "Rfid Info Controller"
+    },
+    {
+      "name": "调度屏APP调度接口",
+      "description": "Dispatch Apply Rest Api Controller"
+    },
+    {
+      "name": "处置场接口",
+      "description": "Disposal Site Controller"
+    },
+    {
+      "name": "文件导入",
+      "description": "Cc Import Controller"
+    },
+    {
+      "name": "财务统计接口",
+      "description": "Rest Bill Statistics Controller"
+    },
+    {
+      "name": "线接口",
+      "description": "Line Controller"
+    },
+    {
+      "name": "芯片异常报警",
+      "description": "Abnormal Event Record Device Rfid Controller"
+    },
+    {
+      "name": "商户异常分析接口",
+      "description": "Restaurant Abnormal Analyze Controller"
+    },
+    {
+      "name": "行政区划接口",
+      "description": "Division Controller"
+    },
+    {
+      "name": "收费模式接口",
+      "description": "Charge Model Controller"
+    },
+    {
+      "name": "一张图-异常事件接口",
+      "description": "One Page Abnormal Event Controller"
+    },
+    {
+      "name": "一张图-视频点接口",
+      "description": "One Page Video Point Controller"
+    },
+    {
+      "name": "资产统计接口",
+      "description": "Assets Stat Controller"
+    },
+    {
+      "name": "(长沙餐厨)数据概览接口",
+      "description": "Cockpit Controller"
+    },
+    {
+      "name": "垃圾桶接口",
+      "description": "Trashbin Rfid Controller"
+    },
+    {
+      "name": "驾驶员接口",
+      "description": "Driver Controller"
+    },
+    {
+      "name": "车辆接口",
+      "description": "Car Controller"
+    },
+    {
+      "name": "车辆收集监控接口",
+      "description": "Car Collect Monitor Controller"
+    },
+    {
+      "name": "商户合同接口",
+      "description": "Contract Management Controller"
+    },
+    {
+      "name": "车辆出勤和收运量统计接口",
+      "description": "Car Collect Day Controller"
+    },
+    {
+      "name": "历史轨迹生成路线",
+      "description": "Route Planning Controller"
+    },
+    {
+      "name": "账单管理接口",
+      "description": "Rest Bill Controller"
+    },
+    {
+      "name": "异常事件接口",
+      "description": "Abnormal Event Record Controller"
+    },
+    {
+      "name": "一张图-车辆接口",
+      "description": "One Page Car Controller"
+    },
+    {
+      "name": "app-rest-add-controller",
+      "description": "App Rest Add Controller"
+    },
+    {
+      "name": "路线智能规划接口",
+      "description": "Route Intelligent Plan Controller"
+    },
+    {
+      "name": "point-controller",
+      "description": "Point Controller"
+    },
+    {
+      "name": "商户接口",
+      "description": "Restaurant Controller"
+    },
+    {
+      "name": "智能调度接口",
+      "description": "Smart Disptch Controller"
+    },
+    {
+      "name": "称重明细接口",
+      "description": "Restaurant Car Data Detail Controller"
+    },
+    {
+      "name": "态势预测接口",
+      "description": "Situation Forecast Controller"
+    }
+  ]

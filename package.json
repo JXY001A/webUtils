@@ -1,0 +1,24 @@
+{
+  "name": "webutil",
+  "version": "1.0.0",
+  "description": "个人工具集合",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JXY001A/webUtils.git"
+  },
+  "keywords": [
+    "util",
+    "koa",
+    "nodejs"
+  ],
+  "author": "jxy001a",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JXY001A/webUtils/issues"
+  },
+  "homepage": "https://github.com/JXY001A/webUtils#readme"
+}
